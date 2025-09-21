@@ -1,0 +1,7 @@
+title: 앱 지원 | 주차 위치 안내 앱
+description: 사용자가 찍은 자동차·주차장 사진을 스캔해 주차 위치를 알려주는 iOS 앱의 지원 및 개인정보 처리방침 페이지입니다.
+theme: minima
+lang: ko-KR
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
