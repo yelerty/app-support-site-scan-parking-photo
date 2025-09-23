@@ -4,28 +4,28 @@
 Rastreador de estacionamento inteligente! Salve seu local de estacionamento com uma foto e nunca perca seu carro. GPS + análise de fotos.
 
 ## Description (Menos de 2200 caracteres)
-🚗 Cansado de vagar por estacionamentos procurando seu carro?
+Cansado de vagar por estacionamentos procurando seu carro?
 
 Agora você pode registrar com precisão e facilmente encontrar sua localização de estacionamento com apenas uma foto!
 
-📱 Recursos principais:
+Recursos principais:
 • Registro simples de localização de estacionamento com captura de foto
 • Salvamento automático de coordenadas GPS para rastreamento preciso de localização
 • Reconhecimento automático de pilares de estacionamento ou números de zona (OCR)
 • Armazenamento seguro de dados dentro do seu dispositivo
 • Suporte de sincronização iCloud (opcional)
 
-🎯 Perfeito para:
+Perfeito para:
 • Aqueles que lutam para encontrar seu carro em grandes shopping centers
 • Viajantes que querem registrar localizações de estacionamento
 • Qualquer pessoa que frequentemente esquece zonas de estacionamento ou números de andar
 
-🔒 Proteção de privacidade:
+Proteção de privacidade:
 • Todos os dados processados dentro do seu dispositivo
 • Nenhuma informação pessoal enviada para servidores do desenvolvedor
 • Usuário tem controle total sobre gerenciamento de dados
 
-🌟 Características:
+Características:
 • Interface intuitiva e simples
 • Reconhecimento e análise rápida de fotos
 • Funciona completamente offline

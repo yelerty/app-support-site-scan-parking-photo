@@ -4,28 +4,28 @@
 ¡Rastreador de estacionamiento inteligente! Guarda tu lugar de estacionamiento con una foto y nunca pierdas tu coche. GPS + análisis de fotos.
 
 ## Description (Menos de 2200 caracteres)
-🚗 ¿Cansado de deambular por estacionamientos buscando tu coche?
+¿Cansado de deambular por estacionamientos buscando tu coche?
 
 ¡Ahora puedes registrar con precisión y encontrar fácilmente tu ubicación de estacionamiento con solo una foto!
 
-📱 Características principales:
+Características principales:
 • Registro simple de ubicación de estacionamiento con captura de foto
 • Guardado automático de coordenadas GPS para seguimiento preciso de ubicación
 • Reconocimiento automático de pilares de estacionamiento o números de zona (OCR)
 • Almacenamiento seguro de datos dentro de tu dispositivo
 • Soporte de sincronización iCloud (opcional)
 
-🎯 Perfecto para:
+Perfecto para:
 • Aquellos que luchan por encontrar su coche en grandes centros comerciales
 • Viajeros que quieren registrar ubicaciones de estacionamiento
 • Cualquiera que olvide frecuentemente zonas de estacionamiento o números de piso
 
-🔒 Protección de privacidad:
+Protección de privacidad:
 • Todos los datos procesados dentro de tu dispositivo
 • No se envía información personal a servidores del desarrollador
 • El usuario tiene control total sobre la gestión de datos
 
-🌟 Características:
+Características:
 • Interfaz intuitiva y simple
 • Reconocimiento y análisis rápido de fotos
 • Funciona completamente sin conexión

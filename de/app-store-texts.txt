@@ -4,28 +4,28 @@
 Intelligente Parkplatz-Verfolgung! Speichern Sie Ihren Parkplatz mit einem Foto und verlieren Sie Ihr Auto nie wieder. GPS + Fotoanalyse.
 
 ## Description (Unter 2200 Zeichen)
-🚗 Müde vom Umherwandern auf Parkplätzen auf der Suche nach Ihrem Auto?
+Müde vom Umherwandern auf Parkplätzen auf der Suche nach Ihrem Auto?
 
 Jetzt können Sie Ihren Parkplatz mit nur einem Foto genau aufzeichnen und leicht wiederfinden!
 
-📱 Hauptfunktionen:
+Hauptfunktionen:
 • Einfache Parkplatz-Aufzeichnung durch Foto-Aufnahme
 • Automatische GPS-Koordinaten-Speicherung für präzise Standortverfolgung
 • Automatische Erkennung von Parkplatz-Säulen oder Zonennummern (OCR)
 • Sichere Datenspeicherung innerhalb Ihres Geräts
 • iCloud-Synchronisation unterstützt (optional)
 
-🎯 Perfekt für:
+Perfekt für:
 • Personen, die Schwierigkeiten haben, ihr Auto in großen Einkaufszentren zu finden
 • Reisende, die Parkplätze aufzeichnen möchten
 • Alle, die häufig Parkzonen oder Stockwerknummern vergessen
 
-🔒 Datenschutz:
+Datenschutz:
 • Alle Daten werden innerhalb Ihres Geräts verarbeitet
 • Keine Übertragung persönlicher Informationen an Entwickler-Server
 • Benutzer hat volle Kontrolle über Datenverwaltung
 
-🌟 Funktionen:
+Funktionen:
 • Intuitive und einfache Benutzeroberfläche
 • Schnelle Foto-Erkennung und -Analyse
 • Funktioniert vollständig offline
