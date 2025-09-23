@@ -5,3 +5,46 @@ lang: ko-KR
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+
+# Language settings for multilingual support
+languages:
+  ko:
+    url: ""
+    title: "앱 지원 | 주차 위치 안내 앱"
+    description: "사용자가 찍은 자동차·주차장 사진을 스캔해 주차 위치를 알려주는 iOS 앱의 지원 및 개인정보 처리방침 페이지입니다."
+  en:
+    url: "/en"
+    title: "App Support | Parking Location Guide App"
+    description: "Support and privacy policy pages for an iOS app that scans photos of cars and parking lots taken by users to provide parking location information."
+  ja:
+    url: "/ja"
+    title: "アプリサポート | 駐車位置案内アプリ"
+    description: "ユーザーが撮影した車・駐車場の写真をスキャンして駐車位置をお知らせするiOSアプリのサポートおよびプライバシーポリシーページです。"
+  de:
+    url: "/de"
+    title: "App-Support | Parkplatz-Standort-App"
+    description: "Support- und Datenschutzrichtlinien-Seiten für eine iOS-App, die von Benutzern aufgenommene Auto- und Parkplatzfotos scannt, um Parkplatzinformationen bereitzustellen."
+  fr:
+    url: "/fr"
+    title: "Support d'application | Application de localisation de stationnement"
+    description: "Pages de support et de politique de confidentialité pour une application iOS qui scanne les photos de voitures et de parkings prises par les utilisateurs pour fournir des informations de localisation de stationnement."
+  zh:
+    url: "/zh"
+    title: "应用支持 | 停车位置导航应用"
+    description: "为扫描用户拍摄的汽车和停车场照片以提供停车位置信息的iOS应用程序提供支持和隐私政策页面。"
+  ar:
+    url: "/ar"
+    title: "دعم التطبيق | تطبيق دليل موقع الركن"
+    description: "صفحات الدعم وسياسة الخصوصية لتطبيق iOS يقوم بمسح صور السيارات ومواقف السيارات التي يلتقطها المستخدمون لتوفير معلومات موقع الركن."
+  es:
+    url: "/es"
+    title: "Soporte de la aplicación | Aplicación de ubicación de estacionamiento"
+    description: "Páginas de soporte y política de privacidad para una aplicación de iOS que escanea fotos de coches y estacionamientos tomadas por usuarios para proporcionar información de ubicación de estacionamiento."
+  pt:
+    url: "/pt"
+    title: "Suporte do aplicativo | Aplicativo de localização de estacionamento"
+    description: "Páginas de suporte e política de privacidade para um aplicativo iOS que escaneia fotos de carros e estacionamentos tiradas por usuários para fornecer informações de localização de estacionamento."
+  hi:
+    url: "/hi"
+    title: "ऐप सपोर्ट | पार्किंग स्थान गाइड ऐप"
+    description: "उपयोगकर्ताओं द्वारा खींची गई कारों और पार्किंग की तस्वीरों को स्कैन करके पार्किंग की जानकारी प्रदान करने वाले iOS ऐप के लिए सपोर्ट और गोपनीयता नीति पेज।"
