@@ -1,0 +1,37 @@
+# App Store Marketing Texts - French (Français)
+
+## Promotional Text (Moins de 170 caractères)
+Suivi de stationnement intelligent ! Sauvegardez votre place avec une photo et ne perdez plus jamais votre voiture. GPS + analyse photo.
+
+## Description (Moins de 2200 caractères)
+🚗 Fatigué d'errer dans les parkings à la recherche de votre voiture ?
+
+Maintenant, vous pouvez enregistrer avec précision et facilement retrouver votre emplacement de stationnement avec juste une photo !
+
+📱 Fonctionnalités principales :
+• Enregistrement simple de l'emplacement de stationnement par capture photo
+• Sauvegarde automatique des coordonnées GPS pour un suivi précis de la localisation
+• Reconnaissance automatique des piliers de parking ou numéros de zones (OCR)
+• Stockage sécurisé des données dans votre appareil
+• Support de synchronisation iCloud (optionnel)
+
+🎯 Parfait pour :
+• Ceux qui ont du mal à retrouver leur voiture dans les grands centres commerciaux
+• Les voyageurs qui veulent enregistrer les emplacements de stationnement
+• Tous ceux qui oublient fréquemment les zones de parking ou numéros d'étages
+
+🔒 Protection de la vie privée :
+• Toutes les données traitées dans votre appareil
+• Aucune information personnelle envoyée aux serveurs du développeur
+• L'utilisateur a un contrôle total sur la gestion des données
+
+🌟 Caractéristiques :
+• Interface intuitive et simple
+• Reconnaissance et analyse photo rapides
+• Fonctionne complètement hors ligne
+• Ne demande que des permissions minimales
+
+Arrêtez d'errer dans les parkings ! Téléchargez maintenant et commencez votre vie de stationnement intelligent.
+
+## Keywords (Moins de 100 caractères)
+stationnement, trouver voiture, GPS, photo, localisation, tracker, centre commercial, voyage

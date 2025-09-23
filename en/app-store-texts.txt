@@ -1,0 +1,37 @@
+# App Store Marketing Texts - English
+
+## Promotional Text (Under 170 characters)
+Smart parking tracker! Save your parking spot with a photo and never lose your car again. GPS + photo analysis for accurate location tracking.
+
+## Description (Under 2200 characters)
+🚗 Tired of wandering around parking lots looking for your car?
+
+Now you can accurately record and easily find your parking location with just one photo!
+
+📱 Key Features:
+• Simple parking location recording with photo capture
+• Automatic GPS coordinate saving for precise location tracking
+• Automatic recognition of parking pillars or zone numbers (OCR)
+• Secure data storage within your device
+• iCloud sync support (optional)
+
+🎯 Perfect for:
+• Those who struggle to find their car in large mall or shopping center parking lots
+• Travelers who want to record parking locations
+• Anyone who frequently forgets parking zones or floor numbers
+
+🔒 Privacy Protection:
+• All data processed within your device
+• No personal information sent to developer servers
+• User has full control over data management
+
+🌟 Features:
+• Intuitive and simple interface
+• Fast photo recognition and analysis
+• Works completely offline
+• Requests only minimal permissions
+
+Stop wandering around parking lots! Download now and start your smart parking life.
+
+## Keywords (Under 100 characters)
+parking, car finder, GPS, photo, location, tracker, shopping mall, travel, navigation, automobile
